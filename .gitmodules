@@ -1,3 +1,9 @@
 [submodule "ecommerce-graphql-api"]
 	path = ecommerce-graphql-api
 	url = git@github.com:dtn1999/ecommerce-graphql-api.git
+[submodule "ecommerce-admin-webapp"]
+	path = ecommerce-admin-webapp
+	url = git@github.com:dtn1999/ecommerce-admin-webapp.git
+[submodule "ecommerce-client-webapp"]
+	path = ecommerce-client-webapp
+	url = git@github.com:dtn1999/ecommerce-client-webapp.git
