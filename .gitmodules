@@ -1,0 +1,3 @@
+[submodule "ecommerce-graphql-api"]
+	path = ecommerce-graphql-api
+	url = git@github.com:dtn1999/ecommerce-graphql-api.git
